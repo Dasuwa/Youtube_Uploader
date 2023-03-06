@@ -39,7 +39,7 @@ class Downloader:
             if not self.downloaded_file:
                 self.status = False
                 self.message = (
-                    "Download failed either because user cancelled or telegram refused!"
+                    "Download failed either because user cancelled or telegram refused!🦥 Please Convert this Video to MKV format and Try again🔂"
                 )
             else:
                 self.status = True
