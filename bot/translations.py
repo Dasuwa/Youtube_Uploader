@@ -1,15 +1,15 @@
 class Messages:
 
     START_MSG = (
-        "**__Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtubeonce you authorise me.__** "
-        "**__once you authorise me.You can know more from /help.\nThank you for using Meh 😁**__"
-        "\n\n**__Create Clone Of Me:-\n Watch On Youtube: [Click Here](https://youtu.be/W3QOfZtwDS8)__**"
-        "\n **__Read On Blog: [Click Here](https://hxbots.eu.org/2022/12/deploy-youtube-uploader-bot-on-render/)__**"
-        "\n\n**__HOW TO USE ME:-\n Watch On YouTube: [Click Here](https://youtu.be/dLCXse6HlaE)__**"
-        "\n **__Watch On Google Drive: [Click Here.](https://drive.google.com/file/d/12qp4VcvBOVwhMIx0O5CtO5VvUbCDeFKs/view)__**"
+        "**__Hi there {}.\n\nI'm Multi Usage Bot.You can use me to upload any telegram video to youtube and More🐾 you authorise me.__** "
+        "**__once you authorise me.You can know more from /help.\nThank you for using Meh 😁 Powered by @Dasuwaprofa✨**__"
+        "\n\n**__Create Clone Of Me:-\n Watch On Telegram: [📚Click Here📚](https://t.me/Dasuking)__**"
+        "\n **__Contact My Owner: [📺Click Here📺](https://t.me/Dasuwaprofa)__**"
+        "\n\n**__HOW TO USE ME:-\n Watch On Telegram: [🎥Click Here🎥](https://t.me/Dasuking)__**"
+        "\n **__Dev: [😌Click Here😌](https://t.me/Dasuking)__**"
         "\n\n**__You can know more from /help.__**"
         "\n**__Or use /login to get started.__**"
-        "\n\n**__Join @HXBots for More Bots...__**"
+        "\n\n**__Join @Dasuking for More Bots...__**"
     )
 
     HELP_MSG = [
@@ -37,11 +37,11 @@ class Messages:
         "open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and "
         "send it.\n\n**Fear not!**\nI'm not a hacker or someone who wants to creep into people's privacy. I respect "
         "one's privacy. I'm here just to help anyone who wants help. If I was a hacker I won't be sitting here "
-        "writing Telegram Bots.",
+        "writing Telegram Bots. @Dasuwaprofa🇱🇰",
     ]
 
     LOGIN_MSG = (
-          "**__Ohoo You Want To Login. Great 💚.__**"
+          "**__Ohoo You Want To Login. Great 😌.__**"
           "\n\n**__You need to give me the access to upload videos to your Youtube account.\n\nFor that open the given button below and allow access and copy the code. Come back here and send your code in this formate:\n /authorise your_code (eg: 4/4waa...).__**"
     )
 
