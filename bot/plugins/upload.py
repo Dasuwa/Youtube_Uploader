@@ -66,7 +66,7 @@ async def _upload(c: UtubeBot, m: Message):
         return
 
     try:
-        await snt.edit_text("Downloaded to local, Now starting to upload to youtube...")
+        await snt.edit_text("Downloaded to local, Now starting to upload to youtube... Powdered by @Dasuwaprofa")
     except Exception as e:
         log.warning(e, exc_info=True)
         pass
@@ -143,7 +143,7 @@ async def progress(
             await snt.edit_text(
                 text=text,
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton("Cancel!🚫", f"cncl+{download_id}")]]
+                    [[InlineKeyboardButton("🎭Dasuwaprofa🎭", f"cncl+{download_id}")]]
                 ),
             )
 
