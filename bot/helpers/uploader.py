@@ -50,7 +50,7 @@ class Uploader:
             if not os.path.isfile(Config.CRED_FILE):
                 log.debug(f"{Config.CRED_FILE} does not exist")
                 self.status = False
-                self.message = "Upload failed because you did not authenticate me."
+                self.message = "Upload failed because you did not authenticate me. Please Contact My Owner @Dasuwaprofa✨"
                 return
 
             auth.LoadCredentialsFile(Config.CRED_FILE)
@@ -95,7 +95,7 @@ class Uploader:
             self.status = True
             self.message = (
                 f"Title: {title}\n Link: https://youtu.be/{video_id}"
-                f"\n\nCategory ID: {categoryName} | Category Code: {categoryId}\n**@HxBots | [@oVo-HxBots](https://github.com/oVo-HxBots)**"
+                f"\n\nCategory ID: {categoryName} | Category Code: {categoryId}\n**@Dasuwaprofa✨ | [❤️Dasuking❤️](https://t.me/Dasuking)**"
             )
         except Exception as e:
             log.error(e, exc_info=True)
