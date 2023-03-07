@@ -21,9 +21,7 @@
 - [Screenshots](#screenshots)
 - [Video Tutorial](#video-tutorial)
 - [Contact](#contact)
-- [License](#license)
-
-## How To Deploy; [See Here](https://heroku.com/deploy) 
+- [License](#license) 
 
 ### Info
 
