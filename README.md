@@ -23,7 +23,7 @@
 - [Contact](#contact)
 - [License](#license)
 
-## How To Deploy; [See Video Here](https://youtu.be/JltFDW5X4Y0) 
+## How To Deploy; [See Here](https://heroku.com/deploy) 
 
 ### Info
 
