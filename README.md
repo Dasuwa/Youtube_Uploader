@@ -1,7 +1,7 @@
-# [Youtube Uploader Bot](https://tx.me/Utubeitbot)
-[![GitHub forks](https://img.shields.io/github/forks/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)](https://github.com/oVo-HxBots/Utubeitbot/fork)
-![Repo Size](https://img.shields.io/github/repo-size/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)
-[![GitHub stars](https://img.shields.io/github/stars/oVo-HxBots/Utubeitbot?&style=flat-square&logo=github)](https://github.com/oVo-HxBots/Utubeitbot/stargazers)
+# [Youtube Uploader Bot](https://tx.me/Dasuwaprofa_BOT)
+[![GitHub forks](https://img.shields.io/github/forks/Dasuwa/YouTube_Uploader?&style=flat-square&logo=github)](https://github.com/oVo-HxBots//fork)
+![Repo Size](https://img.shields.io/github/repo-size/Dasuwa/YouTube_Uploader?&style=flat-square&logo=github)
+[![GitHub stars](https://img.shields.io/github/stars/Dasuwa/YouTube_Uploader?&style=flat-square&logo=github)](https://github.com/Dasuwa/Youtube_Uploader)
 
 #### [Render Support Added](#render)
 #### ~~[Koyeb Support Discontinued](#koyeb)~~
